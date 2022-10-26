@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/travel-react-component/precache-manifest.8d782a759a4a970e3e209ba754afcbaf.js"
+  "/insurance-react-component/precache-manifest.6b9b5612f7452b7c733630cbef8cd391.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/travel-react-component/index.html", {
+workbox.routing.registerNavigationRoute("/insurance-react-component/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
