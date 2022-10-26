@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/insurance-react-component/static/js/2.76ff3590.chunk.js"
   },
   {
-    "revision": "b6f2a7f19196ea2b3077ebcd960d1dfb",
+    "revision": "741a54101b06cd54bba311adced620a8",
     "url": "/insurance-react-component/index.html"
   }
 ];
